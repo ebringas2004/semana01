@@ -1,0 +1,11 @@
+git init
+
+
+git add tipos.cc
+git commit -m "Primer Commit"
+
+git remote add origin https://github.com/ebringas2004/semana01.git
+git push -u origin master
+
+git add -A
+git commit
